@@ -1,0 +1,18 @@
+@import "react-alice-carousel/lib/alice-carousel.css";
+/* @import "react-alice-carousel/lib/scss/alice-carousel.scss"; */
+/* .alice-carousel
+{} */
+/* .alice-carousel__stage */
+.alice-carousel__stage-item{
+    width:150px;
+    height:150px;
+}
+.alice-carousel__prev-btn{
+    /* border:3px solid red; */
+}
+.alice-carousel__prev-btn-item{
+   font-size: 50px;
+}
+.alice-carousel__next-btn-item{
+   font-size: 50px;
+}
